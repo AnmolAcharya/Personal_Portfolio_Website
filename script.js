@@ -12,7 +12,7 @@ function toggleMenu() {
 }
 
 function openGithub(){
-  window.open('https://github.com/AnmolAcharya/Personal_Portfolio-.git', '_blank');
+  window.open('https://github.com/AnmolAcharya/Personal_Portfolio_Website.git', '_blank');
 }
 
 function openGmail() {
